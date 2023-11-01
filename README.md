@@ -30,7 +30,7 @@ This project is designed to measure and log energy consumption data using a spec
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/energy-consumption-project.git
+   git clone https://github.com/R-Marimuthu/MEASURE-ENERGY-CONSUMPTION.git
    ```
 
 2. Install required Python packages:
